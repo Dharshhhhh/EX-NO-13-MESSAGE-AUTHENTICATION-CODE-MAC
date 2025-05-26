@@ -8,7 +8,7 @@ To implement MESSAGE AUTHENTICATION CODE(MAC)
 1. Message Authentication Code (MAC) is a cryptographic technique used to verify the integrity and authenticity of a message by using a secret key.
 
 2. Initialization:
-   - Choose a cryptographic hash function \( H \) (e.g., SHA-256) and a secret key \( K \).
+   - Choose a cryptographic hash function \( H \) (e.g., SHA-256) and a secret key \( K \). 
    - The message \( M \) to be authenticated is input along with the secret key \( K \).
 
 3. MAC Generation:
